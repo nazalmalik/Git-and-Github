@@ -8,4 +8,4 @@ Source : Apna Clg
 <br>
 Level : Intermediate
 <br>
-Shifting Repos from Repos =remote systems to local systems
+Shifting Repos from remote systems to local systems
